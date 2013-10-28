@@ -33,4 +33,4 @@ Think about that. 2006.
   source ~/.zshrc
   ```
 
-You'll also want to add `.rake_tasks` to your [global .git_ignore](https://help.github.com/articles/ignoring-files#global-gitignore)
+You'll also want to add `.rake_tasks` to your [global .gitignore](https://help.github.com/articles/ignoring-files#global-gitignore)
