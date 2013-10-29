@@ -18,7 +18,7 @@ Think about that. 2006.
 
   ```bash
   cd ~/.oh-my-zsh/custom/plugins
-  git clone git://https://github.com/KevinBongart/rake-fast.git
+  git clone git://github.com/KevinBongart/rake-fast.git
   ```
 
 2. Add the plugin to your `.zshrc`:
