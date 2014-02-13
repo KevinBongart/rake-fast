@@ -8,7 +8,7 @@ This script caches the output for later usage and significantly speeds it up.
 
 It generates a file .rake_tasks in parallel to the Rakefile. It also checks the file modification dates to see if it needs to regenerate the cache file.
 
-This is entirely based on [this pull request by Ullrich Schäfer](https://github.com/robb/.dotfiles/pull/10/), which is inspired by [this Ruby on Rails trick from 2006](http://weblog.rubyonrails.org/2006/3/8/fast-rake-task-completion-for-zsh/).
+This is entirely based on [this pull request by Ullrich Schäfer](https://github.com/robb/.dotfiles/pull/10/), which is inspired by [this Ruby on Rails trick from 2006](http://weblog.rubyonrails.org/2006/3/9/fast-rake-task-completion-for-zsh/).
 
 Think about that. 2006.
 

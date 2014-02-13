@@ -13,7 +13,7 @@
 # This is entirely based on Ullrich Schäfer's work
 # (https://github.com/robb/.dotfiles/pull/10/),
 # which is inspired by this Ruby on Rails trick from 2006:
-# http://weblog.rubyonrails.org/2006/3/8/fast-rake-task-completion-for-zsh/
+# http://weblog.rubyonrails.org/2006/3/9/fast-rake-task-completion-for-zsh/
 
 # Author: Kevin Bongart
 # contact@kevinbongart.net
