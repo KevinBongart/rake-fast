@@ -1,4 +1,4 @@
-# rake-fast
+# rake-fast (https://github.com/KevinBongart/rake-fast)
 # Fast rake autocompletion plugin for oh-my-zsh
 
 # This script caches the output for later usage and significantly speeds it up.
