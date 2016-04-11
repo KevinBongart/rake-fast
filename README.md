@@ -2,6 +2,8 @@
 
 Fast rake autocompletion plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+**This plugin is now bundled with oh-my-zsh and maintained by more competent people [over there](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/rake-fast).**
+
 ## What?
 
 This script caches the output for later usage and significantly speeds it up.
